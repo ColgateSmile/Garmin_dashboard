@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+    margin: 20px 0;
+    text-align: center;
+    color: #4CAF50;
+}
+
+.table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+canvas {
+    max-width: 100%;
+    height: auto;
+}
+
+#scatter-container {
+    margin-top: 20px;
+}
